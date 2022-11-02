@@ -1,6 +1,1 @@
 - 👋 Hi, I’m @gair
-- 👀 I’m interested in Flutter and crossplatform development
-- 🌱 I’m currently learning swift and swiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
